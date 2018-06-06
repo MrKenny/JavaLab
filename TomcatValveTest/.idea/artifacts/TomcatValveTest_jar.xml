@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="TomcatValveTest:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/TomcatValveTest_jar</output-path>
+    <root id="archive" name="TomcatValveTest.jar">
+      <element id="module-output" name="TomcatValveTest" />
+    </root>
+  </artifact>
+</component>

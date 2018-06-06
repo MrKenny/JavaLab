@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="apache-tomcat-8.5">
+    <CLASSES>
+      <root url="file://C:/Java/apache-tomcat-8.5.24" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://C:/Java/apache-tomcat-8.5.24/webapps/docs/appdev/sample/src" />
+      <root url="file://C:/Java/apache-tomcat-8.5.24/work/Catalina/localhost/ROOT" />
+      <root url="file://C:/Java/apache-tomcat-8.5.24/work/Catalina/localhost/manager" />
+      <root url="file://C:/Java/apache-tomcat-8.5.24/work/Catalina/localhost/pahu" />
+      <root url="file://C:/Java/apache-tomcat-8.5.24/work/Catalina/localhost/pahu2" />
+    </SOURCES>
+  </library>
+</component>

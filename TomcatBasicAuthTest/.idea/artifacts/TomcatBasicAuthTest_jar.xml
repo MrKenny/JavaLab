@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="TomcatBasicAuthTest:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/TomcatBasicAuthTest_jar</output-path>
+    <root id="archive" name="TomcatBasicAuthTest.jar">
+      <element id="module-output" name="TomcatBasicAuthTest" />
+    </root>
+  </artifact>
+</component>
